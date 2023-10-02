@@ -1,4 +1,4 @@
-# NOTE, this has a weird bug where it just spams 'This is not valid! Please Try Again, although it will still work
+# NOTE, this has a weird bug where it just spams 'This is not valid! Please Try Again', although it will still work
 
 dma = input('Choose between division (D), multiplication (M), and addition! (A) (MUST BE CAPITALIZED): ')
 
