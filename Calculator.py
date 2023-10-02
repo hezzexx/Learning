@@ -9,14 +9,14 @@ if dmas == 'A':
     total = int(first_number) + int(second_number)
     print('Total: ' + str(total))
 else:
-    print("This is not a valid! Please try again!")
+    print("This is not valid! Please try again!")
 if dmas == 'D':
         first_number = input('1st Number: ')
         second_number = input('2nd Number: ')
         total = int(first_number) / int(second_number)
         print('Total: ' + str(total))
 else:
- print("This is not a valid! Please try again!")
+ print("This is not valid! Please try again!")
 
 if dmas == 'M':
     first_number = input('1st Number: ')
@@ -24,7 +24,7 @@ if dmas == 'M':
     total = int(first_number) * int(second_number)
     print('Total: ' + str(total))
 else:
-    print("This is not a valid! Please try again!")
+    print("This is not valid! Please try again!")
 
 if dmas == 'S':
     first_number = input('1st Number: ')
@@ -32,4 +32,4 @@ if dmas == 'S':
     total = int(first_number) - int(second_number)
     print('Total: ' + str(total))
 else:
-    print("This is not a valid! Please try again!")
+    print("This is not valid! Please try again!")
