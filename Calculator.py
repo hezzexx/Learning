@@ -1,4 +1,4 @@
-# NOTE, this has a weird bug where it just spams 'This is not valid! Please Try Again', although it will still work
+# never fixing the bug :trollos:
 
 dmas = input('Choose between division (D), multiplication (M), addition (A), and subtraction (S) (MUST BE '
              'CAPITALIZED): ')
