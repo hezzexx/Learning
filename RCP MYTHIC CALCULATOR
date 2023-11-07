@@ -1,0 +1,6 @@
+rcpxp = input('Current ammount of XP: ')
+
+if int(rcpxp) > 268375:
+    print('You should have Mythic now??? (maybe idk :troll:)')
+else: meth = 268375 - int(rcpxp)
+print('XP Needed for mythic!: ' + str(meth))
